@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">memegen</string>
+    <string name="action_settings">Settings</string>
+    <string name="new_meme">New Meme</string>
+    <string name="next_image">Next Image</string>
+    <string name="click_anywhere_to_begin">click anywhere to begin</string>
+    <string name="joke">joke</string>
+</resources>
